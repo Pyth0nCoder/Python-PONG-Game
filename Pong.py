@@ -55,7 +55,7 @@ paddle_b_up_flag = False
 paddle_b_down_flag = False
 
 # Paddle movement speed
-paddle_speed = 1  # super slow
+paddle_speed = 1 
 
 # Paddle movement functions
 def paddle_a_up_press():
